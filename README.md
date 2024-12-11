@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricNguyen1206
-- 👀 I’m interested in create beautiful website
+- 👀 I’m interested in creating impactful websites
 - 🌱 I’m currently learning Laravel, Docker...
-- 💞️ I’m looking for a Frontend Engineer position
+- 💞️ I’m looking for a Software Engineer position
 - 📫 Reach me: 11a1eric3@gmail.com
 
 <!---
