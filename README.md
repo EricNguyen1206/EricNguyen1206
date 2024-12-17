@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EricNguyen1206
+- 👋 Hi, I’m @EricNguyen
 - 👀 I’m interested in creating impactful websites
-- 🌱 I’m currently learning Laravel, Docker...
+- 🌱 I’m currently learning Golang, Docker...
 - 💞️ I’m looking for a Software Engineer position
 - 📫 Reach me: 11a1eric3@gmail.com
 
