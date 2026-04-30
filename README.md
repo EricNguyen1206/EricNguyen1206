@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @EricNguyen
 - 👀 I’m interested in creating impactful websites
-- 🌱 I’m currently learning Golang, Docker...
-- 💞️ I’m looking for a Software Engineer position
-- 📫 Reach me: 11a1eric3@gmail.com
 
 <!---
 EricNguyen1206/EricNguyen1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
